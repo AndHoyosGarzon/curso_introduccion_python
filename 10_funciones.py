@@ -1,6 +1,5 @@
 ### Funciones ###
 # son bloques de codigo que cumplen una trabajp especifico o resuelve un problema en concreto
-
 def my_function():
     print("esto es una funcion")           
 
